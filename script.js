@@ -33,3 +33,16 @@ for (let i = 0; i < characterTitles.length; i++) {
 
 // Task 3
 
+let giantColor = document.querySelector(".clash-card__unit-stats--giant");
+giantColor.style.backgroundColor = "#EC9B3B"
+
+// Task 4
+
+let goblinColor = document.querySelector(".clash-card__unit-stats--goblin")
+goblinColor.style.backgroundColor = "#82BB30";
+
+// task 5
+
+let wizardColor = document.querySelector(".clash-card__unit-stats--wizard")
+wizardColor.style.backgroundColor = "#4FACFF";
+
